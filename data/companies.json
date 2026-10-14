@@ -8,6 +8,14 @@
         careerPortal: "https://www.dar.gov.ph/careers"
     },
     {
+        urlLogo: "",
+        agencyName: "Civil Service Commission",
+        category: "Employment",
+        ownership: "Government",
+        location: "",
+        careerPortal: ""
+    },
+    {
         urlLogo:"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_Department_of_Agriculture_%28Philippines%29.jpg/250px-Flag_of_Department_of_Agriculture_%28Philippines%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
         agencyName: "Department of Agriculture",
         category: "Agriculture",
@@ -22,5 +30,85 @@
         ownership: "Government",
         location: "Gen. Solano St., San Miguel, Manila",
         careerPortal: "https://www.dbm.gov.ph/index.php/careers"
+    },
+    {
+        urlLogo: "",
+        agencyName: "Department of Education MIMAROPA",
+        category: "Education",
+        ownership: "Government",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "Department of Energy",
+        category: "Energy",
+        ownership: "Government",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "Department of Environment and Natural Resources MIMAROPA",
+        category: "Environment",
+        ownership: "Government",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "Department of Finance",
+        category: "Finance",
+        ownership: "Government",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "Departm",
+        category: "Education",
+        ownership: "Government",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "Office of the President",
+        category: "Government",
+        ownership: "Government",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "Office of the Vice President",
+        category: "Government",
+        ownership: "Government",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "BDO Unibank, Inc.",
+        category: "Finance",
+        ownership: "Private",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "Bank of the Philippine Islands",
+        category: "Finance",
+        ownership: "Private",
+        location: "",
+        careerPortal: ""
+    },
+    {
+        urlLogo: "",
+        agencyName: "Philippine National Bank",
+        category: "Finance",
+        ownership: "Private",
+        location: "",
+        careerPortal: ""
     }
 ]
