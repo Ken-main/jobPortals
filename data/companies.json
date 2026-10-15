@@ -1,114 +1,114 @@
 [
     {
-        urlLogo: "https://cms-cdn.e.gov.ph/DAR/uploads/Department_of_Agrarian_Reform_(DAR)%201.png",
-        agencyName: "Department of Agrarian Reform",
-        category: "Agriculture",
-        ownership: "Government",
-        location: "Elliptical Road, Diliman, Quezon City",
-        careerPortal: "https://www.dar.gov.ph/careers"
+        "urlLogo": "https://cms-cdn.e.gov.ph/DAR/uploads/Department_of_Agrarian_Reform_(DAR)%201.png",
+        "agencyName": "Department of Agrarian Reform",
+        "category": "Agriculture",
+        "ownership": "Government",
+        "location": "Elliptical Road, Diliman, Quezon City",
+        "careerPortal": "https://www.dar.gov.ph/careers"
     },
     {
-        urlLogo: "",
-        agencyName: "Civil Service Commission",
-        category: "Employment",
-        ownership: "Government",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Civil_Service_Commission.svg/960px-Civil_Service_Commission.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "agencyName": "Civil Service Commission",
+        "category": "Employment",
+        "ownership": "Government",
+        "location": "Constitution Hills, Batasang Pambansa Complex Diliman, Quezon City 1126",
+        "careerPortal": "https://csc.gov.ph/career/"
     },
     {
-        urlLogo:"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_Department_of_Agriculture_%28Philippines%29.jpg/250px-Flag_of_Department_of_Agriculture_%28Philippines%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
-        agencyName: "Department of Agriculture",
-        category: "Agriculture",
-        ownership: "Government",
-        location: "Elliptical Road, Diliman, Quezon City",
-        careerPortal: "https://www.da.gov.ph/transparency/job-opportunities/"
+        "urlLogo":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_Department_of_Agriculture_%28Philippines%29.jpg/250px-Flag_of_Department_of_Agriculture_%28Philippines%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "agencyName": "Department of Agriculture",
+        "category": "Agriculture",
+        "ownership": "Government",
+        "location": "Elliptical Road, Diliman, Quezon City",
+        "careerPortal": "https://www.da.gov.ph/transparency/job-opportunities/"
     },
     {
-        urlLogo: "https://upload.wikimedia.org/wikipedia/commons/1/11/Department_of_Budget_and_Management_Official_Seal.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-        agencyName: "Department of Budget and Management",
-        category: "Finance",
-        ownership: "Government",
-        location: "Gen. Solano St., San Miguel, Manila",
-        careerPortal: "https://www.dbm.gov.ph/index.php/careers"
+        "urlLogo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Department_of_Budget_and_Management_Official_Seal.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "agencyName": "Department of Budget and Management",
+        "category": "Finance",
+        "ownership": "Government",
+        "location": "Gen. Solano St., San Miguel, Manila",
+        "careerPortal": "https://www.dbm.gov.ph/index.php/careers"
     },
     {
-        urlLogo: "",
-        agencyName: "Department of Education MIMAROPA",
-        category: "Education",
-        ownership: "Government",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "https://pbs.twimg.com/profile_images/1684763417201225728/w1j4pbos_400x400.jpg",
+        "agencyName": "Department of Education - MIMAROPA",
+        "category": "Education",
+        "ownership": "Government",
+        "location": "Meralco Avenue Corner St. Paul Road Barangay Ugong, Pasig City",
+        "careerPortal": "https://depedmimaroparegion.ph/job-vacancies/"
     },
     {
-        urlLogo: "",
-        agencyName: "Department of Energy",
-        category: "Energy",
-        ownership: "Government",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Seal_of_the_Department_of_Energy_%28Philippines%29.svg/1280px-Seal_of_the_Department_of_Energy_%28Philippines%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "agencyName": "Department of Energy",
+        "category": "Energy",
+        "ownership": "Government",
+        "location": "Energy Center, 34th St., Rizal Drive, Bonifacio Global City, Taguig City, Philippines 1632",
+        "careerPortal": "https://doe.gov.ph/about/careers-and-vacant-positions"
     },
     {
-        urlLogo: "",
-        agencyName: "Department of Environment and Natural Resources MIMAROPA",
-        category: "Environment",
-        ownership: "Government",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Logo_of_the_Department_of_Environment_and_Natural_Resources.svg/500px-Logo_of_the_Department_of_Environment_and_Natural_Resources.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "agencyName": "Department of Environment and Natural Resources MIMAROPA",
+        "category": "Environment",
+        "ownership": "Government",
+        "location": "6th and 8th Floors, Tower 2, Parañaque Integrated Terminal Exchange (PITX), No. 1 Kennedy Road, Barangay Tambo, Parañaque City, 1701",
+        "careerPortal": "https://www.jobportaldenrmimaropa.com/"
     },
     {
-        urlLogo: "",
-        agencyName: "Department of Finance",
-        category: "Finance",
-        ownership: "Government",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Department_of_Finance_%28DOF%29.svg/1280px-Department_of_Finance_%28DOF%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "agencyName": "Department of Finance",
+        "category": "Finance",
+        "ownership": "Government",
+        "location": "DOF Bldg., BSP Complex, Roxas Blvd., 1004 Metro Manila, Philippines",
+        "careerPortal": "https://www.dof.gov.ph/join-us/"
     },
     {
-        urlLogo: "",
-        agencyName: "Departm",
-        category: "Education",
-        ownership: "Government",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "https://pbs.twimg.com/profile_images/1684763417201225728/w1j4pbos_400x400.jpg",
+        "agencyName": "Department of Education - MIMAROPA",
+        "category": "Education",
+        "ownership": "Government",
+        "location": "Meralco Avenue Corner St. Paul Road Barangay Ugong, Pasig City",
+        "careerPortal": "https://depedmimaroparegion.ph/job-vacancies/"
     },
     {
-        urlLogo: "",
-        agencyName: "Office of the President",
-        category: "Government",
-        ownership: "Government",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_the_Office_of_the_President_of_the_Philippines.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "agencyName": "Office of the President",
+        "category": "Government",
+        "ownership": "Government",
+        "location": "Malacañang Complex, J.P. Laurel Street, San Miguel, 1005 Manila City",
+        "careerPortal": "https://op-proper.gov.ph/job-vacancies/"
     },
     {
-        urlLogo: "",
-        agencyName: "Office of the Vice President",
-        category: "Government",
-        ownership: "Government",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "",
+        "agencyName": "Office of the Vice President",
+        "category": "Government",
+        "ownership": "Government",
+        "location": "",
+        "careerPortal": ""
     },
     {
-        urlLogo: "",
-        agencyName: "BDO Unibank, Inc.",
-        category: "Finance",
-        ownership: "Private",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "",
+        "agencyName": "BDO Unibank, Inc.",
+        "category": "Finance",
+        "ownership": "Private",
+        "location": "",
+        "careerPortal": ""
     },
     {
-        urlLogo: "",
-        agencyName: "Bank of the Philippine Islands",
-        category: "Finance",
-        ownership: "Private",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "",
+        "agencyName": "Bank of the Philippine Islands",
+        "category": "Finance",
+        "ownership": "Private",
+        "location": "",
+        "careerPortal": ""
     },
     {
-        urlLogo: "",
-        agencyName: "Philippine National Bank",
-        category: "Finance",
-        ownership: "Private",
-        location: "",
-        careerPortal: ""
+        "urlLogo": "",
+        "agencyName": "Philippine National Bank",
+        "category": "Finance",
+        "ownership": "Private",
+        "location": "",
+        "careerPortal": ""
     }
 ]
